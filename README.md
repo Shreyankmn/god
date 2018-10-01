@@ -1,0 +1,2 @@
+# god
+my first repo
